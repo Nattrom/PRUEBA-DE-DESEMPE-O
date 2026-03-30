@@ -1,13 +1,13 @@
-#🎓 Student Management System
+# 🎓 Student Management System
 
-###📌 Description
+### 📌 Description
 
 This is a console-based Python application designed to manage student information.
 It allows users to perform basic CRUD operations (Create, Read, Update, Delete) and stores data persistently using a JSON file.
 
 ---
 
-###🚀 Features
+### 🚀 Features
 
 ➕ Add new students
 📋 View all students
@@ -19,14 +19,14 @@ It allows users to perform basic CRUD operations (Create, Read, Update, Delete) 
 
 ---
 
-###🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 Python 3
 JSON for data storage
 
 ---
 
-###📂 Project Structure
+### 📂 Project Structure
 
 student_system/
 │
@@ -38,7 +38,7 @@ student_system/
 
 ---
 
-###▶️ How to Run
+### ▶️ How to Run
 
 Open the project folder in your terminal or VS Code
 Make sure you have Python installed
@@ -48,7 +48,7 @@ python main.py
 
 ---
 
-###💡 Example Usage
+### 💡 Example Usage
 
 Select option "1" to add a student
 Enter student details (ID, name, age, course, status)
@@ -59,7 +59,7 @@ Use option "5" to delete a student
 
 ---
 
-###⚠️ Validations Implemented
+### ⚠️ Validations Implemented
 
 ID must be numeric and unique
 Name must contain only letters
@@ -68,7 +68,7 @@ Status must be "active" or "inactive"
 
 ---
 
-###📦 Data Storage
+### 📦 Data Storage
 
 Data is stored in a file called "students.json"
 The file is automatically created and updated
@@ -76,13 +76,13 @@ Data persists between program executions
 
 ---
 
-###👩‍💻 Author
+### 👩‍💻 Author
 
 Developed by Natalia Romerin Rincon 
     Clan: 8
 
 ---
 
-###📄 License
+### 📄 License
 
 This project is for educational purposes.
