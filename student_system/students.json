@@ -1,0 +1,16 @@
+[
+    {
+        "id": "123",
+        "name": "fdsf",
+        "age": 12,
+        "course": "123",
+        "status": "active"
+    },
+    {
+        "id": "1234",
+        "name": "juan",
+        "age": 12,
+        "course": "123",
+        "status": "active"
+    }
+]
